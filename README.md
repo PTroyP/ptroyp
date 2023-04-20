@@ -11,3 +11,5 @@ I've been deep-diving into JavaScript and Google Analytics.
 [HTML & CSS] https://github.com/PTroyP/saas-project
 [HTML] https://github.com/PTroyP/google-project
 [HTML & CSS] https://github.com/PTroyP/coderad
+
+[JS] https://github.com/PTroyP/battleship
