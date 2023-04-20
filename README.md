@@ -1,10 +1,10 @@
 ## Hello!
 
-My name is PTroyP, and I am pursuing a future in front-end development. This is my second (and last) career, so I'd better do it right!
+My name is Troy, and I am a front-end developer. This is my second career, having spent many years in church ministry!
 
 ## What I'm Currently Learning
 
-I've just completed the Advanced HTML and CSS module. While I had done some work in HTML and CSS in the past, I really expanded my toolbox.
+I've been deep-diving into JavaScript and Google Analytics.
 
 ## What I've Done So Far
 
