@@ -4,7 +4,7 @@ My name is Troy, and I am a front-end developer. This is my second career, havin
 
 ## What I'm Currently Learning
 
-I've been deep-diving into JavaScript and Google Analytics.
+I've been deep-diving into JavaScript, React and Google Analytics.
 
 ## What I've Done So Far
 
